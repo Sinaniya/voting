@@ -1,0 +1,28 @@
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    color: yellowgreen;
+}
+.container_hospital {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    color: rgb(231, 131, 59);
+}
+
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+.inputBox {
+    width: 300px;  /* or whatever width ensures all text is visible */
+    font-size: 16px; /* adjust the font size as needed */
+    padding: 10px;   /* padding makes it more visually appealing and easier to type */
+    box-sizing: border-box; /* ensures that padding and border are included in the width */
+    color: rgb(91, 127, 219);
+}
